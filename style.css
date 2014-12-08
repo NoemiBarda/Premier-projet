@@ -1,0 +1,44 @@
+h1 {
+    color:pink;
+    font-size:50px;
+    text-align:center;
+}
+
+body {
+    background-image:url(symphony.png);
+    font-family: script;
+    color:black;
+    font-size:30px;
+        
+}
+
+h1 {
+    font-family: brush script std;
+}
+    
+
+header {
+    background-color: white;
+    text-align: center;
+    max-width: 10000px;
+    margin:auto;
+    height: 40px;
+}
+
+main {
+    background-color: white;
+    text-align: center;
+    max-width: 10000px;
+    margin: auto;
+}
+
+footer {
+    background-color: white;
+    text-align: center;
+    max-width: 10000px;
+    position:fixed;
+    width: 100%;
+    bottom:0;
+}
+    
+    
